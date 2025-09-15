@@ -6,9 +6,9 @@ title: "About Me"
 
 Write a brief introduction about yourself here. Include:
 
-- Your academic background
-- Your interest in data science
-- Your career goals
+- I am a student at BYU
+- I am interested in predicting the future and communicating the best, most logical next steps
+- I
 - Any relevant experience or projects
 
 ## Education
